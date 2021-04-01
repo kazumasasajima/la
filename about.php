@@ -27,6 +27,10 @@ $(function(){
 <p></p>
 <p>
   <b>Thank You</b><br/><br/>
+  <span class="info">Ryota Yamaguchi</span>
+  <span class="info">Mayu Shirai</span>
+  <span class="info">chukuippa</span>
+  <span class="info">seaketa</span>
   <span class="info">woopheadclrms</span>
   <span class="info">Tomoko Kitamura</span>
   <span class="info">Kouhei Maeda</span>
