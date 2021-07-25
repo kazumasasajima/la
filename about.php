@@ -7,6 +7,7 @@
 <title>みんなで音が合うまで、「ラ(だと思う音)」を歌いましょう by 山村祥子</title>
 <script type="text/javascript">
 $(function(){
+$("#value").load("http://vg.pe.hu/publication/value/online/2020/shokoyamamura/");
 })
 </script>
 <style type="text/css">
@@ -25,6 +26,7 @@ $(function(){
 それはまるで、平和な世界への第一歩のような...<br/>
 そんな思いからこの企画が始まりました。</p>
 <p></p>
+<div id="value"></div>
 <p>
   <b>Thank You</b><br/><br/>
   <span class="info">Ryota Yamaguchi</span>
